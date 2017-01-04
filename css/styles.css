@@ -52,6 +52,10 @@ body {
   }
 }
 
+.space {
+  height: 200px;
+}
+
 #main-content {
   background-color: grey;
   color: black;
