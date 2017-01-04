@@ -52,8 +52,8 @@ body {
   }
 }
 
-.space {
-  height: 200px;
+h1 {
+  border-bottom: 200px;
 }
 
 #main-content {
