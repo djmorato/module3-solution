@@ -48,12 +48,14 @@ body {
 /** Changing color of extended menu **/
 @media (max-width: 767px) {
   .navbar-collapse {
-  background-color: #ff8c00;
+    background-color: white;
+    border: 1px black;
+  /**background-color: #ff8c00;**/
   }
 }
 
 #main-content {
-  background-color: white;
+  background-color: grey;
   color: black;
 }
 
