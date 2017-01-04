@@ -59,7 +59,7 @@ h1 {
 #main-content {
   background-color: grey;
   color: black;
-  margin: 10px 100px 10px 100px;
+  padding: 10px 100px 10px 100px;
 }
 
 .title-center {
