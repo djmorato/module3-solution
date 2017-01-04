@@ -9,7 +9,6 @@ body {
 #header-nav {
   background-color: #f6b319;
   border-radius: 0;
-  border: 1px black;
 }
 
 /** NAVBAR BRAND **/
@@ -36,7 +35,7 @@ body {
 }
 
 #nav-list a {
-  color: #951C49;
+  color: black;
   text-align: center;
   border: 1px black;
 }
@@ -48,8 +47,7 @@ body {
 /** Changing color of extended menu **/
 @media (max-width: 767px) {
   .navbar-collapse {
-    background-color: white;
-    border: 1px black;
+    background-color: #E9967E;
   /**background-color: #ff8c00;**/
   }
 }
