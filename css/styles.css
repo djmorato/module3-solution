@@ -18,7 +18,7 @@ body {
   width: 100%;
   left: 30px;
   text-align: left;
-  margin:0 auto;
+  margin:0;
   font-weight: bold;
 }
 .navbar-default .navbar-brand {
