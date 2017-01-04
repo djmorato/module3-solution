@@ -36,8 +36,10 @@ body {
 }
 
 /** Test **/
-.navbar-collapse {
-  background-color: #ff8c00;
+@media (max-width: 767) {
+  .navbar-collapse {
+    background-color: #ff8c00;
+  }
 }
 
 
