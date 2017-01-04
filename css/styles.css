@@ -35,13 +35,16 @@ body {
   background: #E7E7E7;
 }
 
-/** Test **/
+/** Changing color of extended menu **/
 @media (max-width: 767px) {
   .navbar-collapse {
   background-color: #ff8c00;
   }
 }
 
+#main-content {
+  background-color: white;
+}
 
 
 .row {
