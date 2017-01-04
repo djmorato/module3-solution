@@ -18,12 +18,13 @@ body {
   width: 15%;
   left: 30px;
   text-align: left;
-  margin:0,auto;
+  margin: 0, auto;
   font-weight: bold;
 }
 .navbar-default .navbar-brand {
   color: black;
 }
+
 .navbar-default .navbar-toggle {
   border-color: black;
 }
