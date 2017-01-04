@@ -24,6 +24,13 @@ body {
 .navbar-default .navbar-brand {
   color: black;
 }
+.navbar-default .navbar-toggle {
+  border-color: black;
+}
+
+#nav-toggle-button {
+  background-color: black;
+}
 
 /**NAV-LIST**/
 #nav-list {
