@@ -36,11 +36,9 @@ body {
 }
 
 /** Test **/
-@media (max-width: 767) {
-  .navbar-collapse .visible-xs {
-    background-color: #ff8c00;
+.navbar-collapse {
+  background-color: #ff8c00;
   }
-}
 
 
 
