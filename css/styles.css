@@ -23,7 +23,7 @@ body {
 }
 
 .navbar {
-  border: 1px black;
+  border: -1px black;
 }
 
 .navbar-default .navbar-brand {
