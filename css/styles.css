@@ -9,7 +9,7 @@ body {
 #header-nav {
   background-color: #f6b319;
   border-radius: 0;
-  border: 0;
+  border: 1px black;
 }
 
 /** NAVBAR BRAND **/
@@ -38,6 +38,7 @@ body {
 #nav-list a {
   color: #951C49;
   text-align: center;
+  border: 1px black;
 }
 
 #nav-list a:hover {
