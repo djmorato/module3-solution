@@ -11,6 +11,17 @@ body {
   border-radius: 0;
   border: 0;
 }
+
+/** NAVBAR BRAND **/
+.navbar-brand
+{
+    position: absolute;
+    width: 100%;
+    left: 0;
+    text-align: center;
+    margin:0 auto;
+}
+
 .row {
   margin-bottom: 15px;
   }
