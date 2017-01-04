@@ -9,7 +9,6 @@ body {
 #header-nav {
   background-color: #f6b319;
   border-radius: 0;
-  height: 50px;
 }
 
 /** NAVBAR BRAND **/
@@ -22,6 +21,11 @@ body {
   font-size: 20px;
   font-weight: bold;
 }
+
+.navbar {
+  border: 1px black;
+}
+
 .navbar-default .navbar-brand {
   color: black;
 }
