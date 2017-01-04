@@ -9,6 +9,7 @@ body {
 #header-nav {
   background-color: #f6b319;
   border-radius: 0;
+  height: 50px;
 }
 
 /** NAVBAR BRAND **/
@@ -80,4 +81,8 @@ h2 {
   font-size: 20px;
   font-weight: bold;
   margin-bottom: 20px;
+}
+
+.navbar-inverse .navbar-collapse, .navbar-inverse .navbar-form {
+    border: 1px black !important;
 }
