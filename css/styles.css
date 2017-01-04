@@ -36,7 +36,7 @@ body {
 }
 
 /** Test **/
-.visible-xs .navbar-collapse {
+.visible-xs.navbar-collapse {
   background-color: #ff8c00;
 }
 
