@@ -53,12 +53,13 @@ body {
 }
 
 h1 {
-  margin-bottom: 200px;
+  margin-bottom: 40px;
 }
 
 #main-content {
   background-color: grey;
   color: black;
+  margin: 10px 100px 10px 100px;
 }
 
 .title-center {
@@ -66,3 +67,4 @@ h1 {
   font-weight: bold;
 }
 
+/**@media (max-width: **/ 
