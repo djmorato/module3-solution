@@ -6,6 +6,10 @@ body {
 }
 
 /** HEADER **/
+header {
+  border: 1px black;
+}
+
 #header-nav {
   background-color: #f6b319;
   border-radius: 0;
