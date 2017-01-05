@@ -97,6 +97,9 @@ h2 { 
   #main-content {
     width: 80%;
   }
+  body {
+    padding-top: 150px; 
+  }
 /** Changing color of extended menu **/
   .navbar-collapse {
     background-color: #E9967E;
