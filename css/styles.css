@@ -53,10 +53,10 @@ body {
   background: #E7E7E7;
 }
 
-/**prueba**/
+/**prueba
 #nav-list li:hover {
   padding-bottom: 400px;
-}
+}**/
 
 .navbar-nav {
   margin: 0px -15px;
