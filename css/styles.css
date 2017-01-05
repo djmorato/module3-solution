@@ -63,13 +63,7 @@ body {
   margin: 0px -15px;
 }
 
-/** Changing color of extended menu **/
-@media (max-width: 767px) {
-  .navbar-collapse {
-    background-color: #E9967E;
-  /**background-color: #ff8c00;**/
-  }
-}
+
 
 h1 {
   font-size: 26px;
@@ -93,19 +87,24 @@ h2 { 
   text-align: center;
   font-weight: bold;
 }
+.container-fluid > .navbar-collapse, .container-fluid > .navbar-header, .container > .navbar-collapse, .container > .navbar-header {
+  margin-right: -17px;
+  margin-left: -17px;
+}
 
+/**MEDIA OPTIONS**/
 @media (max-width: 767px) {
   #main-content {
     width: 80%;
   }
+/** Changing color of extended menu **/
+  .navbar-collapse {
+    background-color: #E9967E;
+  }
 }
-
 /** Adjusting Logo**/
 @media (min-width: 768px) {
   .navbar > .container .navbar-brand, .navbar > .container-fluid .navbar-brand {
     margin-left: 0px;
   }
 }
-.container-fluid > .navbar-collapse, .container-fluid > .navbar-header, .container > .navbar-collapse, .container > .navbar-header {
-  margin-right: -17px;
-  margin-left: -17px;
