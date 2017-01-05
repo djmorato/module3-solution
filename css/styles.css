@@ -53,7 +53,8 @@ body {
   background: #E7E7E7;
 }
 
-ul#nav-list ul:hover {
+/**prueba**/
+#nav-list li:hover {
   padding-bottom: 400px;
 }
 
